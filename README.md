@@ -9,12 +9,12 @@ Using an integrated omics approach combining microarray expression and methylati
 
 ## Dependencies
 # R Packages (Illumina 450k/EPIC arrays)
-- minfi v1.50.0
-- ChAMP v2.30.0
-- DMRcate v2.16.0
-- limma v3.60.6
-- missMethyl v1.36.0 (gometh for GO/KEGG from CpGs)
-- sva v3.50.0 (ComBat batch correction)
+- `minfi` v1.50.0
+- `ChAMP` v2.30.0
+- `DMRcate` v2.16.0
+- `limma` v3.60.6
+- `missMethyl` v1.36.0 (gometh for GO/KEGG from CpGs)
+- `sva` v3.50.0 (ComBat batch correction)
 - IlluminaHumanMethylation450kanno.ilmn12.hg19 v0.6.1
 - IlluminaHumanMethylationEPICanno.ilm10b4.hg19 v0.6.0
 - VennDiagram v1.7.3
