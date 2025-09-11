@@ -8,7 +8,7 @@ Using an integrated omics approach combining microarray expression and methylati
 ![Poster Presentation](figures/High_Res_Poster-01.jpg)
 
 ## Dependencies
-# R Packages (Illumina 450k/EPIC arrays)
+# R Packages
 - `minfi` v1.50.0
 - `ChAMP` v2.30.0
 - `DMRcate` v2.16.0
@@ -25,7 +25,7 @@ Using an integrated omics approach combining microarray expression and methylati
 - `annotatr` v1.24.0
 - `BiocParallel` v1.38.0
 
-# Python Libraries (optional / workflow & downstream)
+# Python Libraries
 - `pandas` v2.1.4
 - `numpy` v1.26.4
 - `scikit-learn` v1.4.2
